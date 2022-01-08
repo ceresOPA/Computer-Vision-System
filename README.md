@@ -13,4 +13,5 @@
 ---
 ## 涉及开源项目：
 - [![目标检测算法](https://img.shields.io/badge/-YOLOv5-blue)](https://github.com/ultralytics/yolov5)
+- [![前端模板框架](https://img.shields.io/badge/-vue--admin--template-green)](https://github.com/PanJiaChen/vue-admin-template)
 
