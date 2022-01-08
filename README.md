@@ -25,8 +25,8 @@ npm run serve
 ```
 - 界面展示
 
-<img src="./static/web1.png" width="460" height="250" align="left" />
-<img src="./static/web2.png" width="460" height="250" align="center" />
+<img src="./static/web1.png" width="430" height="250" align="left" />
+<img src="./static/web2.png" width="430" height="250" align="center" />
 
 ## 服务端
 
