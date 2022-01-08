@@ -88,10 +88,10 @@ export default {
           }
         },
         legend: {
-          data: ['吸烟人数', '未吸烟人数']
+          data: ['口罩人数', '未口罩人数']
         },
         series: [{
-          name: '吸烟人数', itemStyle: {
+          name: '口罩人数', itemStyle: {
             normal: {
               color: '#00AC9A',
               lineStyle: {
@@ -107,7 +107,7 @@ export default {
           animationEasing: 'cubicInOut'
         },
         {
-          name: '未吸烟人数',
+          name: '未口罩人数',
           smooth: true,
           type: 'line',
           itemStyle: {

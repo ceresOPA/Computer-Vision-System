@@ -9,8 +9,8 @@
       :rules="loginRules"
     >
       <div class="top-container">
-        <img src="../../images/smoke.png" style="margin-bottom:30px;" alt srcset>
-        <h2 class="title-top">吸烟识别系统</h2>
+        <img src="../../images/mask.png" style="margin-bottom:30px;" alt srcset>
+        <h2 class="title-top">口罩识别系统</h2>
       </div>
 
       <div class="title-container">

@@ -3,11 +3,11 @@
     <el-col :xs="16" :sm="16" :lg="24" class="card-panel-col">
       <div class="card-panel">
         <div class="card-panel-icon-wrapper icon-mask">
-          <svg-icon icon-class="smoke" class-name="card-panel-icon" />
+          <svg-icon icon-class="mask" class-name="card-panel-icon" />
         </div>
         <div class="card-panel-description">
           <div class="card-panel-text">
-            吸烟识别系统
+            口罩识别系统
           </div>
         </div>
       </div>

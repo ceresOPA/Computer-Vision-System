@@ -6,8 +6,8 @@
           <el-select v-model="modules" placeholder="请选择合适的模型">
             <el-option label="yolov3-spp3(高准确度）" value="yolov3-spp3" />
             <el-option label="tolov3-tiny(高帧数)" value="yolov3-tiny" />
-            <el-option label="smoke-yolov5s" value="smoke-yolov5s" />
-            <el-option label="smoke-yolov5m" value="mask-yolov5m" />
+            <el-option label="mask-yolov5s" value="mask-yolov5s" />
+            <el-option label="mask-yolov5m" value="mask-yolov5m" />
           </el-select>
         </el-form-item>
         <el-form-item style="margin-left:68px;">

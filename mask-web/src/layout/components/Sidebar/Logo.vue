@@ -24,8 +24,8 @@ export default {
   },
   data() {
     return {
-      title: '吸烟识别系统',
-      logo: 'smoke.png'
+      title: '口罩识别系统',
+      logo: 'mask.png'
     }
   }
 }
