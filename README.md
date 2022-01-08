@@ -5,6 +5,11 @@
 ## 小程序端
 
 采用HBuilderX开发工具进行开发，基于Uniapp框架实现。小程序端的测试运行只需要直接将代码导入HBuilderX（内置小程序开发的各类插件）中即可进行实时的调试与开发。
+- 界面展示
+
+<img src="./static/miniprogram1.jpg" width="200" height="350" align="left" />
+<img src="./static/miniprogram1.jpg" width="200" height="350" align="center" />
+
 
 ## Web端
 
@@ -18,6 +23,10 @@ npm install
 ```
 npm run serve
 ```
+- 界面展示
+
+<img src="./static/web1.png" width="460" height="250" align="left" />
+<img src="./static/web2.png" width="460" height="250" align="center" />
 
 ## 服务端
 
