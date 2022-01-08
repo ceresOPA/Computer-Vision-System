@@ -26,5 +26,7 @@ npm run serve
 
 ## 涉及开源项目：
 - [![目标检测算法](https://img.shields.io/badge/-YOLOv5-blue)](https://github.com/ultralytics/yolov5)
+- [![图像修复](https://img.shields.io/badge/-Bringing--Old--Photos--Back--to--Life-orange)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+- [![图像上色](https://img.shields.io/badge/-colorization-1E88B0)](https://github.com/richzhang/colorization)
 - [![前端模板框架](https://img.shields.io/badge/-vue--admin--template-green)](https://github.com/PanJiaChen/vue-admin-template)
 
